@@ -12,7 +12,7 @@ Installation
 If you prefer to install yourself you can clone erdiko from github and run "composer install" in the root folder.
 
 1. git clone git@github.com:arroyolabs-blog/roll-dice.git
-2. cd roll
+2. cd roll-dice
 3. composer install
 
 ***Server***
