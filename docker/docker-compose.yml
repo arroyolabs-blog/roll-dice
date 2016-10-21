@@ -2,7 +2,7 @@ version: '2'
 
 services:
   apache:
-    container_name: erdiko_web
+    container_name: roll_dice
     build:
       context: .
       args:
